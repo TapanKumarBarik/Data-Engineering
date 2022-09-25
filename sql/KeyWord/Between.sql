@@ -1,0 +1,1 @@
+select EnglishProductName,color,ReorderPoint from [dbo].[DimProduct] where ReorderPoint between 500 and 800
