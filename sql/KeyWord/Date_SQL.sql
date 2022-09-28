@@ -1,0 +1,8 @@
+SELECT GETDATE()
+
+SELECT CURRENT_TIMESTAMP
+
+SELECT DATEDIFF(month, '2020-12-31 23:59:59', '2022-01-01 00:00:00');
+
+SELECT DATEADD(month, 1, '2022-08-31');
+--https://www.programiz.com/sql/date-time
