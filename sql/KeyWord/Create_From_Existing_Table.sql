@@ -1,0 +1,3 @@
+SELECT * INTO MY_NEW_TABLE_1 FROM DimAccount
+
+select * from MY_NEW_TABLE_1
